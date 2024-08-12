@@ -1,3 +1,4 @@
+package task_1;
 // Основной класс Животных
 class Animal {
     protected String name;
